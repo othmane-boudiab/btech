@@ -1,0 +1,72 @@
+a.logo, .logo-footer {
+    width: 106px;
+}
+
+.bg-blue_overlay {
+    background-color: #013677b2;
+}
+
+.bg-blue {
+    background-color: #005596;
+}
+
+.btn-Subscribe {
+    background-color: #01B6E3;
+}
+
+.btn-Subscribe:hover {
+    background-color: #1b9fc0;
+}
+
+.btn-dash {
+    background-color: #01B6E3;
+    width: 100;
+    cursor: pointer;
+}
+
+.btn-dash:hover {
+    background-color: #1b9fc0;
+}
+.bg-post {
+    background-color: #F2F3F8;
+}
+
+.color-post {
+    color: #c2c2c2;
+}
+
+.icon-post {
+    color: #c2c2c2;
+    font-size: 20px;
+}
+.active-l {
+    color: #01B6E3;
+}
+
+.active-l:hover {
+    color: #01B6E3;
+}
+
+.title:hover {
+    color: #01B6E3 !important;
+}
+
+.text-dark:hover {
+    color: #01B6E3;
+}
+
+.btn-edit {
+    background-color: #03d8a3;
+}
+
+.btn-delete {
+    background-color: #ff3e68;
+}
+
+.w-700 {
+    width: 700px;
+}
+
+.h-300 {
+    height: 300px;
+}
